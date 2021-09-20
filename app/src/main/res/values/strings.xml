@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Core2</string>
+    <string name="movie1">Mad Max:\nFury Road</string>
+    <string name="movie2">The Matrix</string>
+    <string name="movie3">Paddington 2</string>
+    <string name="movie4">Spider-Man:\nInto the Spider-Verse</string>
+    <string name="movie_1">movie_1</string>
+    <string name="movie_2">movie_2</string>
+    <string name="movie_3">movie_3</string>
+    <string name="movie_4">movie_4</string>
+    <string name="final_movie"></string>
+    <string name="ratings_1">1</string>
+    <string name="ratings_2">2</string>
+    <string name="ratings_3">3</string>
+    <string name="ratings_4">4</string>
+</resources>
